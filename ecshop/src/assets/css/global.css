@@ -1,0 +1,26 @@
+/* 全局样式设置 */
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  height: 100%;
+}
+body {
+ 
+  height: 100%;
+}
+#app {
+  width: 100%;
+  height: 100%;
+}
+i {
+  font-style: normal;
+}
+a{
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
